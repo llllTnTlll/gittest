@@ -1,5 +1,6 @@
 firstly i did some work
 some else did some work
-i made some change
+i did something on my dev branch
 
-i add something
+other guy made some change
+
